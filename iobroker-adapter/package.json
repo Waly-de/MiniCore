@@ -1,0 +1,19 @@
+{
+  "name": "iobroker.myadapter",
+  "version": "0.0.1",
+  "description": "Demo ioBroker adapter",
+  "author": "Your Name <email@example.com>",
+  "license": "MIT",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "ioBroker",
+    "adapter"
+  ],
+  "dependencies": {
+    "@iobroker/adapter-core": "^2.6.5"
+  }
+}
